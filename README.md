@@ -2,7 +2,7 @@
 17th Sep 2022
 
 ### Project Title
-**House Price using ML**
+**House Price Prediction using ML**
 
 ### Description
 Gradient boosting refers to a class of ensemble machine learning algorithms that can be used for classification or regression predictive modeling problems.
